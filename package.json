@@ -1,0 +1,15 @@
+{
+  "name": "openlibrary-editions",
+  "description": "Open Library editions service client",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "request": "~2.12.0",
+    "isbn": "git://github.com/talis/isbnjs.git#gh-pages",
+    "underscore": "~1.4.3",
+    "async": "~0.1.22"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.7.4"
+  }
+}
