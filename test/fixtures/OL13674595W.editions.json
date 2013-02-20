@@ -1,0 +1,51 @@
+{"entries": [
+    {
+        "publishers": ["Routledge"],
+        "number_of_pages": 721,
+        "subtitle": "immigration, race, and colonialism in American history and identity",
+        "lc_classifications": ["JV"],
+        "latest_revision": 4,
+        "key": "/books/OL22760908M",
+        "authors": [
+            {
+                "key": "/authors/OL6529961A"
+            }
+        ],
+        "publish_places": ["New York, NY"],
+        "languages": [
+            {
+                "key": "/languages/eng"
+            }
+        ],
+        "pagination": "xx, 721 p. :",
+        "title": "Almost all aliens",
+        "identifiers": {
+            "librarything": ["4461316"],
+            "goodreads": ["1837288"]
+        },
+        "created": {
+            "type": "/type/datetime",
+            "value": "2008-12-20T23:44:25.914797"
+        },
+        "isbn_13": ["9780415935937"],
+        "last_modified": {
+            "type": "/type/datetime",
+            "value": "2010-08-19T09:03:44.879392"
+        },
+        "publish_date": "2008",
+        "publish_country": "us ",
+        "by_statement": "Paul Spickard.",
+        "works": [
+            {
+                "key": "/works/OL13674595W"
+            }
+        ],
+        "type": {
+            "key": "/type/edition"
+        },
+        "revision": 4
+    }
+], "links": {
+    "self": "/works/OL13674595W/editions.json",
+    "work": "/works/OL13674595W"
+}, "size": 1}

@@ -1,0 +1,103 @@
+{"entries": [
+    {
+        "publishers": ["Routledge"],
+        "number_of_pages": 744,
+        "subtitle": "Immigration, Race, and Colonialism  in American History and Identity",
+        "weight": "2.7 pounds",
+        "isbn_10": ["0415935938"],
+        "covers": [2415464],
+        "physical_format": "Paperback",
+        "last_modified": {
+            "type": "/type/datetime",
+            "value": "2010-08-12T16:33:42.237026"
+        },
+        "latest_revision": 6,
+        "key": "/books/OL10208419M",
+        "authors": [
+            {
+                "key": "/authors/OL2634987A"
+            }
+        ],
+        "languages": [
+            {
+                "key": "/languages/eng"
+            }
+        ],
+        "source_records": ["amazon:0415935938"],
+        "title": "Almost All Aliens",
+        "identifiers": {
+            "goodreads": ["1837288"],
+            "librarything": ["4461316"]
+        },
+        "isbn_13": ["9780415935937"],
+        "created": {
+            "type": "/type/datetime",
+            "value": "2008-04-30T09:38:13.731961"
+        },
+        "edition_name": "1 edition",
+        "subjects": ["History", "History - General History", "History - U.S", "History: World", "Emigration & Immigration", "Social History", "United States - General", "History / General", "General", "Discrimination", "Emigration and immigration", "Government policy", "United States"],
+        "publish_date": "June 21, 2007",
+        "works": [
+            {
+                "key": "/works/OL281330W"
+            }
+        ],
+        "type": {
+            "key": "/type/edition"
+        },
+        "physical_dimensions": "9.9 x 6.9 x 1.7 inches",
+        "revision": 6
+    },
+    {
+        "publishers": ["Routledge"],
+        "number_of_pages": 744,
+        "subtitle": "Immigration, Race, and Colonialism  in American History and Identity",
+        "weight": "2.9 pounds",
+        "isbn_10": ["041593592X"],
+        "covers": [5043799],
+        "physical_format": "Hardcover",
+        "last_modified": {
+            "type": "/type/datetime",
+            "value": "2010-04-24T17:57:38.512932"
+        },
+        "latest_revision": 7,
+        "key": "/books/OL10208418M",
+        "authors": [
+            {
+                "key": "/authors/OL2634987A"
+            }
+        ],
+        "id": 13624332,
+        "edition_name": "1 edition",
+        "source_records": ["amazon:041593592X", "marc:marc_loc_updates/v36.i42.records.utf8:6137558:1900", "marc:marc_ithaca_college/ic_marc.mrc:223496887:1567"],
+        "title": "Almost All Aliens",
+        "identifiers": {
+            "goodreads": ["6783346"]
+        },
+        "isbn_13": ["9780415935920"],
+        "created": {
+            "type": "/type/datetime",
+            "value": "2008-04-30T09:38:13.731961"
+        },
+        "languages": [
+            {
+                "key": "/languages/eng"
+            }
+        ],
+        "subjects": ["History", "History - General History", "History - U.S", "History: American", "History: World", "USA", "Emigration & Immigration", "General", "Social History", "United States - General", "History / General", "Discrimination", "Emigration and immigration", "Government policy", "United States"],
+        "publish_date": "June 22, 2007",
+        "works": [
+            {
+                "key": "/works/OL281330W"
+            }
+        ],
+        "type": {
+            "key": "/type/edition"
+        },
+        "physical_dimensions": "10.1 x 7.1 x 1.7 inches",
+        "revision": 7
+    }
+], "links": {
+    "self": "/works/OL281330W/editions.json",
+    "work": "/works/OL281330W"
+}, "size": 2}

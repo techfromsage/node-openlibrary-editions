@@ -1,0 +1,1475 @@
+{"entries": [
+    {
+        "publishers": ["Shroff Publishers & Distributors Pvt. Ltd."],
+        "table_of_contents": [
+            {
+                "title": "Getting Started",
+                "label": "Part I",
+                "pagenum": "",
+                "level": 0
+            },
+            {
+                "title": "A Python Q&A Session",
+                "label": "Chapter 1",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Why Do People Use Python?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Is Python a Scripting Language?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Okay, But What's the Downside?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Who Uses Python Today?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "What Can I Do with Python?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "What Are Python's Technical Strengths?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "How Does Python Stack Up to Language X?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "How Python Runs Programs",
+                "label": "Chapter 2",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Introducing the Python Interpreter",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Program Execution",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Execution Model Variations",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "How You Run Programs",
+                "label": "Chapter 3",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Interactive Coding",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "System Command Lines and Files",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Clicking Windows File Icons",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Module Imports and Reloads",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "The IDLE User Interface",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Other IDEs",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Embedding Calls",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Frozen Binary Executables",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Text Editor Launch Options",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Other Launch Options",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Future Possibilities?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Which Option Should I Use?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Part I Exercises",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Types and Operations",
+                "label": "Part II",
+                "pagenum": "",
+                "level": 0
+            },
+            {
+                "title": "Numbers",
+                "label": "Chapter 4",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Python Program Structure",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Why Use Built-in Types?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Numbers",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Python Expression Operators",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Numbers in Action",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "The Dynamic Typing Interlude",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Strings",
+                "label": "Chapter 5",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "String Literals",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Strings in Action",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "String Formatting",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "String Methods",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "General Type Categories",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Lists and Dictionaries",
+                "label": "Chapter 6",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Lists",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Lists in Action",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Dictionaries",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Dictionaries in Action",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Tuples, Files, and Everything Else",
+                "label": "Chapter 7",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Tuples",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Files",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Type Categories Revisited",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Object Generality",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "References Versus Copies",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Comparisons, Equality, and Truth",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Python's Type Hierarchies",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Other Types in Python",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Built-in Type Gotchas",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Part II Exercises",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Statements and Syntax",
+                "label": "Part III",
+                "pagenum": "",
+                "level": 0
+            },
+            {
+                "title": "Assignment, Expressions, and Print",
+                "label": "Chapter 8",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Assignment Statements",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Expression Statements",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Print Statements",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "if Tests",
+                "label": "Chapter 9",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "if Statements",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Python Syntax Rules",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Truth Tests",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "while and for Loops",
+                "label": "Chapter 10",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "while Loops",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "break, continue, pass, and the Loop else",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "for Loops",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Loop Variations",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Documenting Python Code",
+                "label": "Chapter 11",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "The Python Documentation Interlude",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Common Coding Gotchas",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Part III Exercises",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Functions",
+                "label": "Part IV",
+                "pagenum": "",
+                "level": 0
+            },
+            {
+                "title": "Function Basics",
+                "label": "Chapter 12",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Why Use Functions?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Coding Functions",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "A First Example: Definitions and Calls",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "A Second Example: Intersecting Sequences",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Scopes and Arguments",
+                "label": "Chapter 13",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Scope Rules",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "The global Statement",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Scopes and Nested Functions",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Passing Arguments",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Special Argument Matching Modes",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Advanced Function Topics",
+                "label": "Chapter 14",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Anonymous Functions: lambda",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Applying Functions to Arguments",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Mapping Functions Over Sequences",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Functional Programming Tools",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "List Comprehensions",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Generators and Iterators",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Function Design Concepts",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Function Gotchas",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Part IV Exercises",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Modules",
+                "label": "Part V",
+                "pagenum": "",
+                "level": 0
+            },
+            {
+                "title": "Modules: The Big Picture",
+                "label": "Chapter 15",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Why Use Modules?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Python Program Architecture",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "How Imports Work",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Module Coding Basics",
+                "label": "Chapter 16",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Module Creation",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Module Usage",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Module Namespaces",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Reloading Modules",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Module Packages",
+                "label": "Chapter 17",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Package Import Basics",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Package Import Example",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Why Use Package Imports?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "A Tale of Three Systems",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Advanced Module Topics",
+                "label": "Chapter 18",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Data Hiding in Modules",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Enabling Future Language Features",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Mixed Usage Modes: __name__ and __main__",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Changing the Module Search Path",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "The import as Extension",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Module Design Concepts",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Module Gotchas",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Part V Exercises",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Classes and OOP",
+                "label": "Part VI",
+                "pagenum": "",
+                "level": 0
+            },
+            {
+                "title": "OOP: The Big Picture",
+                "label": "Chapter 19",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Why Use Classes?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "OOP from 30,000 Feet",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Class Coding Basics",
+                "label": "Chapter 20",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Classes Generate Multiple Instance Objects",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Classes Are Customized by Inheritance",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Classes Can Intercept Python Operators",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Class Coding Details",
+                "label": "Chapter 21",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "The Class Statement",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Methods",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Inheritance",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Operator Overloading",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Namespaces: The Whole Story",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Designing with Classes",
+                "label": "Chapter 22",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Python and OOP",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Classes as Records",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "OOP and Inheritance: \"is-a\" Relationships",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "OOP and Composition: \"has-a\" Relationships",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "OOP and Delegation",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Multiple Inheritance",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Classes Are Objects: Generic Object Factories",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Methods Are Objects: Bound or Unbound",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Documentation Strings Revisited",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Classes Versus Modules",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Advanced Class Topics",
+                "label": "Chapter 23",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Extending Built-in Types",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Pseudo-Private Class Attributes",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "\"New Style\" Classes in Python 2.2",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Class Gotchas",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Part VI Exercises",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Exceptions and Tools",
+                "label": "Part VII",
+                "pagenum": "",
+                "level": 0
+            },
+            {
+                "title": "Exception Basics",
+                "label": "Chapter 24",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Why Use Exceptions?",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Exception Handling: The Short Story",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "The try/except/else Statement",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "The try/finally Statement",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "The raise Statement",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "The assert Statement",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Exception Objects",
+                "label": "Chapter 25",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "String-Based Exceptions",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Class-Based Exceptions",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "General raise Statement Forms",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Designing with Exceptions",
+                "label": "Chapter 26",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Nesting Exception Handlers",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Exception Idioms",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Exception Design Tips",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Exception Gotchas",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Core Language Summary",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Part VII Exercises",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "The Outer Layers",
+                "label": "Part VIII",
+                "pagenum": "",
+                "level": 0
+            },
+            {
+                "title": "Common Tasks in Python",
+                "label": "Chapter 27",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Exploring on Your Own",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Conversions, Numbers, and Comparisons",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Manipulating Strings",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Data Structure Manipulations",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Manipulating Files and Directories",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Internet-Related Modules",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Executing Programs",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Debugging, Testing, Timing, Profiling",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Exercises",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Frameworks",
+                "label": "Chapter 28",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "An Automated Complaint System",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Interfacing with COM: Cheap Public Relations",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "A Tkinter-Based GUI Editor for Managing Form Data",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Jython: The Felicitous Union of Python and Java",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Exercises",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Python Resources",
+                "label": "Chapter 29",
+                "pagenum": "",
+                "level": 1
+            },
+            {
+                "title": "Layers of Community",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "The Process",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Services and Products",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "The Legal Framework: The Python Software Foundation",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Software",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Popular Third-Party Software",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Web Application Frameworks",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Tools for Python Developers",
+                "label": "",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Appendixes",
+                "label": "Part IX",
+                "pagenum": "",
+                "level": 0
+            },
+            {
+                "title": "Installation and Configuration",
+                "label": "A",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Solutions to Exercises",
+                "label": "B",
+                "pagenum": "",
+                "level": 2
+            },
+            {
+                "title": "Index",
+                "label": "",
+                "pagenum": "",
+                "level": 0
+            }
+        ],
+        "physical_format": "Paperback",
+        "last_modified": {
+            "type": "/type/datetime",
+            "value": "2010-02-16T04:28:38.678596"
+        },
+        "latest_revision": 3,
+        "key": "/books/OL24051551M",
+        "id": 49171452,
+        "edition_name": "First Indian Reprint",
+        "classifications": {},
+        "title": "Learning Python",
+        "identifiers": {},
+        "created": {
+            "type": "/type/datetime",
+            "value": "2010-02-16T04:16:44.675161"
+        },
+        "languages": [
+            {
+                "key": "/languages/eng"
+            }
+        ],
+        "isbn_10": ["8173667381"],
+        "publish_date": "Jan 2004",
+        "works": [
+            {
+                "key": "/works/OL2784132W"
+            }
+        ],
+        "type": {
+            "key": "/type/edition"
+        },
+        "revision": 3
+    },
+    {
+        "publishers": ["O'Reilly"],
+        "identifiers": {
+            "goodreads": ["1769887"],
+            "librarything": ["23266"]
+        },
+        "isbn_10": ["1565924649"],
+        "covers": [805795],
+        "lc_classifications": ["QA76.73.P98 L877 1999"],
+        "latest_revision": 6,
+        "key": "/books/OL6804857M",
+        "authors": [
+            {
+                "key": "/authors/OL411267A"
+            }
+        ],
+        "publish_places": ["Beijing", "Sebastopol, CA"],
+        "contributions": ["Ascher, David."],
+        "languages": [
+            {
+                "key": "/languages/eng"
+            }
+        ],
+        "pagination": "xvi, 366 p. :",
+        "source_records": ["marc:marc_records_scriblio_net/part01.dat:28505932:738", "marc:marc_loc_updates/v37.i34.records.utf8:156637:955"],
+        "title": "Learning Python",
+        "dewey_decimal_class": ["005.13/3"],
+        "notes": {
+            "type": "/type/text",
+            "value": "Includes index."
+        },
+        "number_of_pages": 366,
+        "created": {
+            "type": "/type/datetime",
+            "value": "2008-04-01T03:28:50.625462"
+        },
+        "edition_name": "1st ed.",
+        "lccn": ["00267609"],
+        "subjects": ["Python (Computer program language)"],
+        "publish_date": "1999",
+        "publish_country": "cc ",
+        "last_modified": {
+            "type": "/type/datetime",
+            "value": "2010-08-04T21:47:30.364995"
+        },
+        "by_statement": "Mark Lutz and David Ascher.",
+        "oclc_numbers": ["41466161"],
+        "works": [
+            {
+                "key": "/works/OL2784132W"
+            }
+        ],
+        "type": {
+            "key": "/type/edition"
+        },
+        "revision": 6
+    },
+    {
+        "publishers": ["O'Reilly"],
+        "identifiers": {
+            "librarything": ["23266"],
+            "goodreads": ["80435"]
+        },
+        "isbn_10": ["0596002815"],
+        "covers": [6684175],
+        "last_modified": {
+            "type": "/type/datetime",
+            "value": "2011-02-11T09:35:38.284934"
+        },
+        "latest_revision": 6,
+        "key": "/books/OL21486798M",
+        "authors": [
+            {
+                "key": "/authors/OL411267A"
+            }
+        ],
+        "publish_places": ["Beijing", "Sebastopol, CA"],
+        "contributions": ["Ascher, David."],
+        "languages": [
+            {
+                "key": "/languages/eng"
+            }
+        ],
+        "pagination": "xxvi, 591 p. :",
+        "source_records": ["marc:marc_oregon_summit_records/catalog_files/ohsu_ncnm_wscc_bibs.mrc:122264758:1013"],
+        "title": "Learning Python",
+        "dewey_decimal_class": ["005.133"],
+        "notes": {
+            "type": "/type/text",
+            "value": "\"Covers Python 2.3\"--Cover.\n\n\"Object-oriented programming\"--Cover.\n\nPrevious ed.: 1999.\n\nIncludes index."
+        },
+        "number_of_pages": 591,
+        "created": {
+            "type": "/type/datetime",
+            "value": "2008-11-02T19:39:42.671129"
+        },
+        "edition_name": "2nd ed.",
+        "subjects": ["Python (Computer program language)", "Object-oriented programming (Computer science)"],
+        "publish_date": "2003",
+        "publish_country": "cc ",
+        "by_statement": "Mark Lutz and David Ascher.",
+        "oclc_numbers": ["51964644"],
+        "works": [
+            {
+                "key": "/works/OL2784132W"
+            }
+        ],
+        "type": {
+            "key": "/type/edition"
+        },
+        "revision": 6
+    },
+    {
+        "publishers": ["O'Reilly"],
+        "number_of_pages": 700,
+        "description": {
+            "type": "/type/text",
+            "value": "Describes the features of the Python 2.5 programming language, covering such topics as types and operations, statements and syntax, functions, modules, classes and OOP, and exceptions and tools."
+        },
+        "isbn_10": ["0596513984"],
+        "lc_classifications": ["QA76.73.P98 L877 2008"],
+        "latest_revision": 10,
+        "key": "/books/OL21319952M",
+        "authors": [
+            {
+                "key": "/authors/OL411267A"
+            }
+        ],
+        "publish_places": ["Sebastopol, CA"],
+        "oclc_number": ["182576260"],
+        "languages": [
+            {
+                "key": "/languages/eng"
+            }
+        ],
+        "pagination": "xliv, 700 p. :",
+        "source_records": ["marc:bcl_marc/bcl_open.05.mrc:316478349:1032", "marc:marc_loc_updates/v37.i20.records.utf8:11585568:553", "marc:marc_ithaca_college/ic_marc.mrc:227155076:674", "marc:marc_loc_updates/v37.i25.records.utf8:37905117:705", "marc:marc_loc_updates/v37.i34.records.utf8:19701964:808", "marc:marc_loc_updates/v37.i46.records.utf8:11302844:912"],
+        "title": "Learning Python",
+        "dewey_decimal_class": ["005.13/3"],
+        "notes": {
+            "type": "/type/text",
+            "value": "Includes index."
+        },
+        "identifiers": {
+            "goodreads": ["2033770"],
+            "librarything": ["23266"]
+        },
+        "isbn_13": ["9780596513986"],
+        "created": {
+            "type": "/type/datetime",
+            "value": "2008-11-01T19:31:40.597174"
+        },
+        "edition_name": "3rd ed.",
+        "subjects": ["Python (Computer program language)", "Object-oriented programming (Computer science)", "Python (Computer language)"],
+        "publish_date": "2008",
+        "publish_country": "cau",
+        "last_modified": {
+            "type": "/type/datetime",
+            "value": "2010-08-18T20:46:43.913409"
+        },
+        "by_statement": "Mark Lutz.",
+        "works": [
+            {
+                "key": "/works/OL2784132W"
+            }
+        ],
+        "type": {
+            "key": "/type/edition"
+        },
+        "revision": 10
+    },
+    {
+        "publishers": ["O'Reilly"],
+        "identifiers": {
+            "goodreads": ["80435"],
+            "librarything": ["23266"]
+        },
+        "isbn_10": ["0596002815"],
+        "covers": [388619],
+        "lc_classifications": ["QA76.73.P98 L877 2004"],
+        "latest_revision": 7,
+        "key": "/books/OL3320928M",
+        "authors": [
+            {
+                "key": "/authors/OL411267A"
+            }
+        ],
+        "publish_places": ["Sebastopol, CA"],
+        "contributions": ["Ascher, David."],
+        "languages": [
+            {
+                "key": "/languages/eng"
+            }
+        ],
+        "pagination": "xxvi, 591 p. :",
+        "source_records": ["marc:marc_records_scriblio_net/part15.dat:40940142:631", "marc:marc_loc_updates/v35.i20.records.utf8:17501179:734", "marc:marc_loc_updates/v37.i34.records.utf8:6433057:852"],
+        "title": "Learning Python",
+        "dewey_decimal_class": ["005.13/3"],
+        "notes": {
+            "type": "/type/text",
+            "value": "Includes index."
+        },
+        "number_of_pages": 591,
+        "created": {
+            "type": "/type/datetime",
+            "value": "2008-04-01T03:28:50.625462"
+        },
+        "edition_name": "2nd ed.",
+        "lccn": ["2004273129"],
+        "subjects": ["Python (Computer program language)"],
+        "publish_date": "2004",
+        "publish_country": "cau",
+        "last_modified": {
+            "type": "/type/datetime",
+            "value": "2010-07-31T15:29:27.736557"
+        },
+        "by_statement": "Mark Lutz and David Ascher.",
+        "works": [
+            {
+                "key": "/works/OL2784132W"
+            }
+        ],
+        "type": {
+            "key": "/type/edition"
+        },
+        "revision": 7
+    }
+], "links": {
+    "self": "/works/OL2784132W/editions.json",
+    "work": "/works/OL2784132W"
+}, "size": 5}

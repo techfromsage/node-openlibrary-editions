@@ -10,6 +10,7 @@
     "async": "~0.1.22"
   },
   "devDependencies": {
-    "nodeunit": "~0.7.4"
+    "nodeunit": "~0.7.4",
+    "nock": "~0.15.2"
   }
 }
